@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 = **La vie des cactus**
 
 Chaque dimanche matin, monsieur Cactus se regarde dans le miroir et se rend +
@@ -8,4 +9,7 @@ Chaque dimanche matin, monsieur Cactus se regarde dans le miroir et se rend +
 %@ù£$£µ$:8 c'est ^echaper^ il faut le **CAPTURER**
 IL '_mange_' "`tout`"
 %@ù£$£µ$:8 est rassasier...
+Et il dit : Un chasseur sachant chasser sans son chien est un bon chasseur. +
+16 jacinthes sèches dans 16 sachets sales. +
+Ma tante, ton thé t'a-t-il oté ta toux.
 
