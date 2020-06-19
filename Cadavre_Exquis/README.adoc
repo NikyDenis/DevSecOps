@@ -1,3 +1,4 @@
+[%hardbreaks]
 %@ù£$£µ$:8 c'est ^echaper^ il faut le **CAPTURER**
 IL '_mange_' "`tout`"
 %@ù£$£µ$:8 est rassasier...
