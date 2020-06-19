@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 = **La vie des cactus**
 
 Chaque dimanche matin, monsieur Cactus se regarde dans le miroir et se rend +
@@ -12,4 +13,6 @@ IL '_mange_' "`tout`"
 Et il dit : Un chasseur sachant chasser sans son chien est un bon chasseur. +
 16 jacinthes sèches dans 16 sachets sales. +
 Ma tante, ton thé t'a-t-il oté ta toux.
-
+= Un beau matin d'été près de la fenêtre il y avait :
+- un chat __et__
+ - un autre animal ?
